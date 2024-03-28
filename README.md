@@ -11,7 +11,9 @@ project structure
 [main.cpp]
 [include/handler.h]
 [src/hander.cpp]
-
+[src/Base62Generarator.cpp]
+[src/dataHandler.cpp]
+[src/database.cpp]
 
 How to compile :
 
