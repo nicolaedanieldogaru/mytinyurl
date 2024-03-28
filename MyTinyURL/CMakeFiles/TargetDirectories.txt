@@ -1,0 +1,3 @@
+/home/nicolaedanieldogaru/Documents/Restweb-master/CMakeFiles/rebuild_cache.dir
+/home/nicolaedanieldogaru/Documents/Restweb-master/CMakeFiles/edit_cache.dir
+/home/nicolaedanieldogaru/Documents/Restweb-master/CMakeFiles/restserver.dir

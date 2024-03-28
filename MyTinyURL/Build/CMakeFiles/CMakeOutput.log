@@ -1,0 +1,56 @@
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7f9dd/fast && /usr/bin/make -f CMakeFiles/cmTC_7f9dd.dir/build.make CMakeFiles/cmTC_7f9dd.dir/build
+make[1]: Entering directory '/home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7f9dd.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_7f9dd.dir/CheckIncludeFile.c.o   -c /home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_7f9dd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7f9dd.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_7f9dd.dir/CheckIncludeFile.c.o  -o cmTC_7f9dd 
+make[1]: Leaving directory '/home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_11aca/fast && /usr/bin/make -f CMakeFiles/cmTC_11aca.dir/build.make CMakeFiles/cmTC_11aca.dir/build
+make[1]: Entering directory '/home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_11aca.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_11aca.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_11aca
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_11aca.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_11aca.dir/CheckFunctionExists.c.o  -o cmTC_11aca  -lpthread 
+make[1]: Leaving directory '/home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0ed36/fast && /usr/bin/make -f CMakeFiles/cmTC_0ed36.dir/build.make CMakeFiles/cmTC_0ed36.dir/build
+make[1]: Entering directory '/home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0ed36.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_0ed36.dir/CheckIncludeFile.c.o   -c /home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_0ed36
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0ed36.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_0ed36.dir/CheckIncludeFile.c.o  -o cmTC_0ed36 
+make[1]: Leaving directory '/home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fa335/fast && /usr/bin/make -f CMakeFiles/cmTC_fa335.dir/build.make CMakeFiles/cmTC_fa335.dir/build
+make[1]: Entering directory '/home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fa335.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_fa335.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_fa335
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fa335.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_fa335.dir/CheckFunctionExists.c.o  -o cmTC_fa335  -lpthread 
+make[1]: Leaving directory '/home/nicolaedanieldogaru/Documents/Restweb-master/Build/CMakeFiles/CMakeTmp'
+
+
+
