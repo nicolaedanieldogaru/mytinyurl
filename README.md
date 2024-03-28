@@ -55,4 +55,12 @@ run server with command "./Build/bin/restserver"
  
 now all done . just implement/replace own logic.
 
-# 2) less dependecies  
+How to use it?
+
+1. From command line:
+   use command: curl -X POST http://127.0.0.1:34568 -d 'www.your_url.xxx' to create new tiny url in database mapped to your original url
+   use command: curl -X GET http://127.0.0.1:34568 -d '127.0.0.1:34568/generated_code' to return the original url
+   
+2. From browser:
+   type in your browser tiny url "127.0.0.1:34568/generated_code" and you will be redirected to the oridinal url 'www.your_url.xxx'
+
