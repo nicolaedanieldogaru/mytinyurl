@@ -213,10 +213,10 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 DBMS:BOOL=OFF
 
 //Value Computed by CMake
-restserver_BINARY_DIR:STATIC=/home/nicolaedanieldogaru/Documents/Restweb-master
+restserver_BINARY_DIR:STATIC=/home/nicolaedanieldogaru/Documents/MyTinyURL
 
 //Value Computed by CMake
-restserver_SOURCE_DIR:STATIC=/home/nicolaedanieldogaru/Documents/Restweb-master
+restserver_SOURCE_DIR:STATIC=/home/nicolaedanieldogaru/Documents/MyTinyURL
 
 
 ########################
